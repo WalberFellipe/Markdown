@@ -2,6 +2,9 @@
 
 In my free time I like to play video-games (🎮 Rocket 🚀 doesn't have reverse 🔃), to watch series (📺), to listen to music (🎵) and of course, practice (👨🏻‍💻)
 
+Currently working on the [OS-MANAGER](https://github.com/wayter95/Os-Manager) project with my friend Wayter
+
+
 You can find me at:
 
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/itsWalberFelips)](https://twitter.com/itsWalberFelips) For some memes 😅
