@@ -7,8 +7,6 @@ Currently working on the [OS-MANAGER](https://github.com/wayter95/Os-Manager) pr
 
 You can find me at:
 
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/itsWalberFelips)](https://twitter.com/itsWalberFelips) For some memes 😅
-
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/walber-fellipe-579549165/)](https://www.linkedin.com/in/walber-fellipe-579549165/) Open to work 😄
 <!--
 **WalberFellipe/WalberFellipe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
