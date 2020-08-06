@@ -1,6 +1,6 @@
 ### My name is Walber Fellipe from Brazil (🇧🇷). trying and being a developer. Information Systems student.
 
-In my free time I like to play video-games (🎮 Rocket 🚀 doesn't have reverse 🔃), to watch series (📺), to listen to music (🎵) and of course, practice (👨🏻‍💻)
+In my free time I like to play PC games (🎮 Rocket 🚀 doesn't have reverse 🔃, like CSGO🔫, Rainbow Six Siege🔫, FIFA ⚽ and NBA 🏀), to watch series (📺), to listen to music (🎵) and of course, practice (👨🏻‍💻🚀)
 
 Currently working on [OS-MANAGER](https://github.com/wayter95/Os-Manager) project with my friend [Wayter Paulo](https://github.com/wayter95).
 
