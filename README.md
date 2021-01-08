@@ -2,9 +2,6 @@
 
 In my free time I like to play PC games (🎮 Rocket 🚀 doesn't have reverse 🔃, like CSGO🔫, Rainbow Six Siege🔫, FIFA ⚽ and NBA 🏀), to watch series (📺), to listen to music (🎵) and of course, practice (👨🏻‍💻🚀)
 
-Currently working on [OS-MANAGER](https://github.com/wayter95/Os-Manager) project with my friend [Wayter Paulo](https://github.com/wayter95).
-
-
 You can find me at:
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/walber-fellipe-579549165/)](https://www.linkedin.com/in/walber-fellipe-579549165/) Open to work 😄
