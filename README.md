@@ -4,6 +4,7 @@
 
 <p align='center'>
   A Front-end Developer from Minas Gerais, Brazil.
+ Passionate about Soccer, NBA, NFL and, but not least, code!
 </p>
 
 
@@ -31,9 +32,13 @@
   <img src="https://img.shields.io/badge/nvidia-gtx%201660SUPER-%2376B900.svg?&style=for-the-badge&logo=nvidia&logoColor=white" />
 </p>
 
+<p align='center'>
 [![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=WalberFellipe&theme=blue-green)](https://walberfellipe.github.io/)
+  </p>
+  
+ <p align='center'>
 [![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=WalberFellipe&theme=blue-green)](https://walberfellipe.github.io/)
-
+</p>
 
 <!-- You can find me at: 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/walber-fellipe-579549165/)](https://www.linkedin.com/in/walber-fellipe-579549165/) 
