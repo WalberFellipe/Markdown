@@ -2,9 +2,14 @@
 
 In my free time I like to play PC games (🎮 Rocket 🚀 doesn't have reverse 🔃, like CSGO🔫, Rainbow Six Siege🔫, FIFA ⚽ and NBA 🏀), to watch series (📺), to listen to music (🎵) and of course, practice (👨🏻‍💻🚀)
 
+[![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Naereen&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+[![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=Naereen&theme=blue-green)](https://github.com/DenverCoder1/github-readme-streak-stats)
+
 You can find me at:
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/walber-fellipe-579549165/)](https://www.linkedin.com/in/walber-fellipe-579549165/) 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/walber-fellipe-579549165/)](https://www.linkedin.com/in/walber-fellipe-579549165/)  ![Profile views](https://gpvc.arturio.dev/Naereen)
+[![Generic badge](https://img.shields.io/badge/<PORTFOLIO>-<CLICK ME>-<GREEN>.svg)](https://walberfellipe.github.io/)
+
 
 
 Open to work 😄
