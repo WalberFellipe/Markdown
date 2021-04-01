@@ -1,17 +1,43 @@
-### My name is Walber Fellipe from Brazil (🇧🇷). trying and being a developer. Information Systems student.
+<h1 align='center'>
+  Hi there 👋 I'm Walber Fellipe💻
+</h1>
 
-In my free time I like to play PC games (🎮 Rocket 🚀 doesn't have reverse 🔃, like CSGO🔫, Rainbow Six Siege🔫, FIFA ⚽ and NBA 🏀), to watch series (📺), to listen to music (🎵) and of course, practice (👨🏻‍💻🚀)
+<p align='center'>
+  A Front-end Developer from Minas Gerais, Brazil.
+</p>
+
+
+
+<p align='center'>
+ 
+  <a href="https://www.linkedin.com/in/walber-fellipe-579549165">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>&nbsp;&nbsp;
+  <a href="https://www.instagram.com/walber_fellipe/">
+    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
+  </a>&nbsp;&nbsp;
+  
+</p>
+
+<p align='center'>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=walberfellipe&show_icons=true&count_private=true&theme=dark" width="350"></a>
+</p>
+
+<p align='center'>
+  💻 Setup<br/><br/>
+  <img src="https://img.shields.io/badge/windows-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/intel-core%20i7%204th-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white" />
+  <img src="https://img.shields.io/badge/RAM-8GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/nvidia-gtx%201660SUPER-%2376B900.svg?&style=for-the-badge&logo=nvidia&logoColor=white" />
+</p>
 
 [![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=WalberFellipe&theme=blue-green)](https://walberfellipe.github.io/)
 [![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=WalberFellipe&theme=blue-green)](https://walberfellipe.github.io/)
 
 
-You can find me at:
-
-
-
-
+<!-- You can find me at: 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/walber-fellipe-579549165/)](https://www.linkedin.com/in/walber-fellipe-579549165/) 
+-->
 
 
 
