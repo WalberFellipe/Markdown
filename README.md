@@ -33,11 +33,11 @@
 </p>
 
 <p align='center'>
-[![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=WalberFellipe&theme=blue-green)](https://walberfellipe.github.io/)
+<a href='#'> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WalberFellipe&theme=blue-green)](https://walberfellipe.github.io/"width="350"></a>
   </p>
   
  <p align='center'>
-[![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=WalberFellipe&theme=blue-green)](https://walberfellipe.github.io/)
+<a href='#'> <img src="https://github-readme-streak-stats.herokuapp.com/?user=WalberFellipe&theme=blue-green)](https://walberfellipe.github.io/"width="350"></a>
 </p>
 
 <!-- You can find me at: 
