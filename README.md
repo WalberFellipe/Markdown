@@ -11,15 +11,15 @@
 
 <p align='center'>
  
-  <a href="https://www.linkedin.com/in/walber-fellipe-579549165">
+  <a href="https://www.linkedin.com/in/walber-fellipe-579549165" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
   
-  <a href="https://www.instagram.com/walber_fellipe/" target_blank>
+  <a href="https://www.instagram.com/walber_fellipe/" target="_blank">
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
   </a>&nbsp;&nbsp;
   
-  <a href="https://walberfellipe.github.io/">
+  <a href="https://walberfellipe.github.io/" target="_blank">
   <img src="https://img.shields.io/website?down_color=BLUE&down_message=ONLINE&style=for-the-badge&up_color=GREEN&up_message=PORTFOLIO&url=https%3A%2F%2Fwalberfellipe.github.io%2F" />
   </a>&nbsp;&nbsp;
 </p>
