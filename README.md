@@ -7,9 +7,11 @@ In my free time I like to play PC games (🎮 Rocket 🚀 doesn't have reverse �
 
 You can find me at:
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/walber-fellipe-579549165/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/walber-fellipe-579549165/)]
+(https://www.linkedin.com/in/walber-fellipe-579549165)
 
-[![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&link=https://walberfellipe.github.io/)
+[![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&link=https://walberfellipe.github.io/)]
+(https://walberfellipe.github.io)
 
 
 
