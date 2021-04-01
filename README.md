@@ -14,10 +14,14 @@
   <a href="https://www.linkedin.com/in/walber-fellipe-579549165">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
+  
   <a href="https://www.instagram.com/walber_fellipe/">
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
   </a>&nbsp;&nbsp;
   
+  <a href="https://walberfellipe.github.io/">
+  <img src="https://img.shields.io/website?down_color=BLUE&down_message=ONLINE&style=for-the-badge&up_color=GREEN&up_message=PORTFOLIO&url=https%3A%2F%2Fwalberfellipe.github.io%2F" />
+  </a>&nbsp;&nbsp;
 </p>
 
 <p align='center'>
@@ -40,12 +44,11 @@
 <a href='#'> <img src="https://github-readme-streak-stats.herokuapp.com/?user=WalberFellipe&theme=dark"width="350"></a>
 </p>
 
-<!-- You can find me at: 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/walber-fellipe-579549165/)](https://www.linkedin.com/in/walber-fellipe-579549165/) 
--->
+
+<p align='center'>
+<Open to work 😄
+</p>
 
 
-
-Open to work 😄
 <!--
 **WalberFellipe/WalberFellipe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
