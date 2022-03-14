@@ -4,7 +4,7 @@
 
 <p align='center'>
   A Front-end Developer from Minas Gerais, Brazil.
- Passionate about Soccer, NBA, NFL and, but not least, code!
+ Passionate about Soccer, NBA, NFL and last, but not least, code!
 </p>
 
 
