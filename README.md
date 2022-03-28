@@ -49,6 +49,7 @@
 <Open to work 😄
 </p>
 
+![Snake animation](https://github.com/WalberFellipe/WalberFellipe/blob/output/github-contribution-grid-snake.svg)
 
 <!--
 **WalberFellipe/WalberFellipe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
