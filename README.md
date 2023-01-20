@@ -36,9 +36,9 @@
   <img src="https://img.shields.io/badge/nvidia-gtx%201660SUPER-%2376B900.svg?&style=for-the-badge&logo=nvidia&logoColor=white" />
 </p>
 
-<p align='center'>
-<a href='#'> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WalberFellipe&theme=dark"width="350"></a>
-  </p>
+// <p align='center'>
+// <a href='#'> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WalberFellipe&theme=dark"width="350"></a>
+//  </p>
   
  <p align='center'>
 <a href='#'> <img src="https://github-readme-streak-stats.herokuapp.com/?user=WalberFellipe&theme=dark"width="350"></a>
